@@ -6,6 +6,7 @@
 
 int main()
 {
+	int iA = 0;
     return 0;
 }
 
