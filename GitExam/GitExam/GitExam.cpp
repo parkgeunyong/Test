@@ -7,6 +7,7 @@
 int main()
 {
 	int iA = 20;
+	int iTest = 1;
     return 0;
 }
 
