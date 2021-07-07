@@ -2,12 +2,13 @@
 //
 
 #include "stdafx.h"
-
+#include <iostream>
 
 int main()
 {
 	int iA = 20;
 	// Test
+	system("pause");
     return 0;
 }
 
